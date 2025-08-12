@@ -2,4 +2,6 @@ hello world
 add files to remote server
 using git push 
 origin = link(ssh)
-mai branch
+main branch
+
+now tag is added to check versions
