@@ -5,3 +5,5 @@ origin = link(ssh)
 main branch
 
 now tag is added to check versions
+
+create a new avatar
