@@ -9,6 +9,8 @@ int main()
 
     int arr[9] = {2,3,5,6,8,9,42,15,16};
 
+    cout<<arr;
+
     if(a>b)
     {
         cout<<"a is greater than b";
